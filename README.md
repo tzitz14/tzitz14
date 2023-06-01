@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jinz
+- 👋 Hi, I’m @Jinzo
 - 👀 I’m interested in system architecture
 - 🌱 I’m currently learning java, java fx, php, android studio
 - 💞️ I’m looking to collaborate on ...
